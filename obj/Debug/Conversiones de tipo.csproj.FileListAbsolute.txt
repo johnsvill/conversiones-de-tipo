@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Conversiones de tipo\Conversiones de tipo\bin\Debug\Conversiones de tipo.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Conversiones de tipo\Conversiones de tipo\obj\Debug\Conversiones de tipo.pdb
